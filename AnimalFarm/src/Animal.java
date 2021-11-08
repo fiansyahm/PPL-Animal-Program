@@ -1,8 +1,8 @@
-abstract class Animal {
+abstract class AnimalFarm {
     private int weight;
     private int num_legs;
 
-    public Animal(int weight,int num_legs) { 
+    public AnimalFarm(int weight,int num_legs) { 
         this.weight = weight; 
         this.num_legs = num_legs;
     }
