@@ -19,4 +19,4 @@ Buatlah implementasi program berorientasi obyek untuk studi kasus "Pizza". Di da
 
 Misal: Pizza 1 dengan topping mozzarella dan cheese, Pizza 2 dengan topping beef, mushroom, cheese.
 
-Bahasa pemrograman yang digunakan bebas
+Bahasa pemrograman yang digunakan bebas.
