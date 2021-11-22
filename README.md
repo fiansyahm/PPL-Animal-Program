@@ -20,3 +20,7 @@ Buatlah implementasi program berorientasi obyek untuk studi kasus "Pizza". Di da
 Misal: Pizza 1 dengan topping mozzarella dan cheese, Pizza 2 dengan topping beef, mushroom, cheese.
 
 Bahasa pemrograman yang digunakan bebas.
+
+## Class Diagram
+
+![CD Design Pattern](https://user-images.githubusercontent.com/75240358/142824489-d1f57e0e-8b82-40a5-b1a5-85d5b59f588d.jpg)
